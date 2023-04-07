@@ -418,6 +418,13 @@ img:hover {
 
 }
 
+@media(min-width: 1366px) {
+    .menu {
+        height: 100px;
+        padding: 0 2.5rem;
+    }
+}
+
 @media(min-width: 1440px) {
 
     /* Header */
